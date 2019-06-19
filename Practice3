@@ -1,0 +1,23 @@
+# Question 1 ==================================
+# Functions are advantageous in a program because they reduce the amount of duplication of code required, additionally, if something
+# changes it means that there are less places that need to be changed. Often they can be thought of a black box, where,
+# once they are working, the rest of the code can be focused on.
+
+# Question 2 ==================================
+# The code in a function exceutes when the function is called.
+
+# Question 3 ==================================
+# the statement 'def' creates a function
+
+# Question 4 ==================================
+# a function is the object? that hold the code.
+# a function call is decides to make the function be used
+
+# Question 5 ==================================
+# There is only one global scope, but there can be any number of local scopes.
+
+# Question 6 ==================================
+# Functions in a local scope get forgotten when the function call returns.
+
+# Question 7 ==================================
+
