@@ -1,0 +1,24 @@
+# Question 1 ==========================================
+# An empty dictionary looks like : {} (var = {})
+
+# Question 2 ==========================================
+# {'foo':42}
+
+# Question 3 ==========================================
+# main difference between a dictionary and a list is that a list is ordered, and a dictionary is not, this means slices and things based on a
+# a position work with lists but not dicts/
+
+# Question 4 ==========================================
+# You get a Key Error
+
+# Question 5 ==========================================
+# 'cat' looks at Keys and values, spam.keys() looks for keys
+
+# Question 6 ==========================================
+# spam.values() only looks in values
+
+# Question 7 ==========================================
+# setdefault method spam.setdefault('color':'black')
+
+# Question 8 ==========================================
+# pprint.pprint()
